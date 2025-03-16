@@ -1,0 +1,1 @@
+let document = document.querySelector('btn');
